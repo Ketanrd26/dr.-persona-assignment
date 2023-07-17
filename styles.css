@@ -1,0 +1,187 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+header{
+    height: 10%;
+    width: 100%;
+    background-color: #00cd6f;
+    position: sticky;
+}
+p{
+    font-size: 50px;
+    margin-top: 30px;
+    margin-left: 10px;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: #ffffff;
+    display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+
+}
+
+img{
+    margin-left: 30px;
+    margin-top: 60px;
+    height: 300px;
+    width: 300px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.box{
+    height: 60px;
+    width: 300px;
+    background-color: #f1f1f1;
+    margin-left: 30px;
+    overflow: visible;
+    padding-left: 15px;
+    padding-top: 15px;
+
+}
+
+.color{
+    color: #00cd6f;
+}
+
+table .color{
+    text-align: right;
+}
+
+td{
+    text-align: left;
+}
+
+table{
+    border-spacing: 0.2cm;
+    margin-left: 30px;
+}
+
+.box2{
+    height: .5cm;
+    width: 8cm;
+    background-color: hsl(152, 100%, 40%);
+    margin: 30px 70px;
+}
+div p{
+    font-size: 15px;
+    word-spacing: .2cm;  
+}
+.motivation{
+    color: #00cd6f;
+    font-size: 50px;
+    padding: 0px 52px;
+}
+
+.Goals{
+    color: #00cd6f;
+    padding: 0px 45px;
+    font-size: 35px;
+}
+
+.goalssentence{
+    color: black;
+    padding: 0px 45px;
+    
+}
+
+
+.Personality{
+    color: #00cd6f;
+    font-size: 35px;
+    /* margin-left: 30px; */
+}
+
+
+.box3{
+    height: .8cm;
+    width: 8cm;
+    background-color: rgb(237, 237, 237);
+    /* margin: 40px; */
+}
+
+.box4{
+    height: 0.8cm;
+    width: 0.8cm;
+    background-color: #00cd6f;
+    margin-left: 40px;
+    
+    
+}
+
+.box5{
+    height: 0.8cm;
+    width: 0.8cm;
+    background-color: #00cd6f;
+    margin-left: 80px;
+}
+.box6{
+    height: 0.8cm;
+    width: 0.8cm;
+    background-color: #00cd6f;
+    margin-left: 80px;
+}
+.box7{
+    height: 0.8cm;
+    width: 0.8cm;
+    background-color: #00cd6f;
+    margin-left: 20px;
+}
+
+.mobileapps{
+    color:  black;
+    /* margin-left: 30px; */
+}
+    
+.box8{
+    height: 0.8cm;
+    width: 5cm;
+    background-color: #00cd6f;
+    /* margin-left: 80px; */
+}
+.box9{
+    height: 0.8cm;
+    width: 5cm;
+    /* background-color: #00cd6f; */
+    /* margin-left: 80px; */
+}
+.box10{
+    height: 0.8cm;
+    width: 4cm;
+    background-color: #00cd6f;
+    /* margin-left: 80px; */
+}
+.box11{
+    height: 0.8cm;
+    width: 5.5cm;
+    background-color: #00cd6f;
+    /* margin-left: 80px; */
+}
+
+.introvet{
+    margin-left: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#firstimage{
+    height: 80px;
+    width: 80px;
+}
+
+#secondimage{
+    height: 80px;
+    width: 80px;
+    margin-left: 30px;
+}
+
+#thirdimage{
+    height: 80px;
+    width: 80px;
+}
